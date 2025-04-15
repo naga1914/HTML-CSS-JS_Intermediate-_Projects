@@ -38,9 +38,9 @@ A weather forecasting application built using HTML, CSS, and JavaScript. It fetc
 
 You can check out the live demos of these projects by visiting:
 
-- **Image Slider Demo**: [Link to live demo]
-- **Modern GSAPify Demo**: [Link to live demo]
-- **Weather App Demo**: [Link to live demo]
+- **Image Slider Demo**: [Link to live demo](https://html-css-js-intermediate-projects.vercel.app/)
+- **Modern GSAPify Demo**: [Link to live demo](https://html-css-js-intermediate-projects-m19n.vercel.app/)
+- **Weather App Demo**: [Link to live demo](https://html-css-js-intermediate-projects-7hte.vercel.app/)
 
 *(Replace the above demo links with actual URLs when available)*
 
